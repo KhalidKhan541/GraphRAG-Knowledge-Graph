@@ -1,0 +1,6 @@
+networkx>=3.0
+numpy>=1.24.0
+python-louvain>=0.16
+neo4j>=5.0.0
+scikit-learn>=1.2.0
+pydantic>=2.0.0
